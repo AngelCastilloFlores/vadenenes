@@ -49,6 +49,15 @@ En el apartado contacto, el usuario de la web, podrá ponerse en contacto con el
 <br>
 <a href="https://ibb.co/j7Z3LJ"><img src="https://preview.ibb.co/h47eud/login.png" alt="login" border="0"></a>
 <a href="https://ibb.co/jyJV0J"><img src="https://preview.ibb.co/dZE3LJ/registro.png" alt="registro" border="0"></a>
+<br><br>
+<h2>Manual Técnico</h2>
+<ul>
+ <li><b>Editor de texto:</b> Sublime Text 2</li>
+ <li><b>Servidor:</b> Hostalia</li>
+ <li><b>Base de datos:</b> PhpMyAdmin MySQLI</li>
+ <li><b>Conexion a BD:</b> PDO</li>
+ <li><b>Versión PHP:</b> 7.0</li>
+</ul>
 
 
 
