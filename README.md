@@ -38,5 +38,8 @@ Finalmente, se nos abrirá una ultima pestaña con los datos de nuestra compra y
 Además el usuario deberá introducir sus datos personales con el fín de poder realizar el envio.
 <a href="https://ibb.co/iUeQHy"><img src="https://preview.ibb.co/d5azcy/factura.png" alt="factura" border="0"></a><br><br>
 
+Una vez finalizada nuestra compra, recibiremos un email al correo introducido anteriormente con los datos de nuestra compra y un número de seguimiento. Además, si el usuario ha comprado desde su cuenta y no la de invitado, podrá acceder al panel de su cuenta y ver un listado con los pedidos realizados.
+
+
 
 
