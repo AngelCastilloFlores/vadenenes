@@ -38,7 +38,13 @@ Finalmente, se nos abrirá una ultima pestaña con los datos de nuestra compra y
 Además el usuario deberá introducir sus datos personales con el fín de poder realizar el envio.
 <a href="https://ibb.co/iUeQHy"><img src="https://preview.ibb.co/d5azcy/factura.png" alt="factura" border="0"></a><br><br>
 
-Una vez finalizada nuestra compra, recibiremos un email al correo introducido anteriormente con los datos de nuestra compra y un número de seguimiento. Además, si el usuario ha comprado desde su cuenta y no la de invitado, podrá acceder al panel de su cuenta y ver un listado con los pedidos realizados.
+Una vez finalizada nuestra compra, recibiremos un email al correo introducido anteriormente con los datos de nuestra compra y un número de seguimiento. Además, si el usuario ha comprado desde su cuenta y no la de invitado, podrá acceder al panel de su cuenta y ver un listado con los pedidos realizados.<br><br>
+
+<h2>Contacto</h2>
+<br>
+En el apartado contacto, el usuario de la web, podrá ponerse en contacto con el administrador de la página rellenando un formulario. Todo esto está programado con la función mail() de php y cumpliendo los parametros que nos dan desde el servidor donde tenemos nuestra web alojada.
+<br
+<a href="https://ibb.co/hcKnfJ"><img src="https://preview.ibb.co/f5iDLJ/contact.png" alt="contact" border="0"></a><br><br>
 
 
 
