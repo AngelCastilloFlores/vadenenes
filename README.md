@@ -45,7 +45,10 @@ Una vez finalizada nuestra compra, recibiremos un email al correo introducido an
 En el apartado contacto, el usuario de la web, podrá ponerse en contacto con el administrador de la página rellenando un formulario. Todo esto está programado con la función mail() de php y cumpliendo los parametros que nos dan desde el servidor donde tenemos nuestra web alojada.
 <br
 <a href="https://ibb.co/hcKnfJ"><img src="https://preview.ibb.co/f5iDLJ/contact.png" alt="contact" border="0"></a><br><br>
-
+<h2>Login y Registro</h2>
+<br>
+<a href="https://ibb.co/j7Z3LJ"><img src="https://preview.ibb.co/h47eud/login.png" alt="login" border="0"></a>
+<a href="https://ibb.co/jyJV0J"><img src="https://preview.ibb.co/dZE3LJ/registro.png" 
 
 
 
