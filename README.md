@@ -57,6 +57,24 @@ En el apartado contacto, el usuario de la web, podrá ponerse en contacto con el
  <li><b>Base de datos:</b> PhpMyAdmin MySQLI</li>
  <li><b>Conexion a BD:</b> PDO</li>
  <li><b>Versión PHP:</b> 7.0</li>
+ <li><b>DNS Externo:</b> Cloudflare</li>
+ <li><b>Certificado SSL:</b> Cloudflare</li>
+ <li><b>Servidor FTP:</b> Filezilla</li>
+ <li><b>Libreria:</b> Bootstrap</li>
+</ul>
+<br>
+<ul>
+ <li><b>Tecnologías</b></li>
+ <li>PHP 7.0</li>
+ <li>JavaScript</li>
+ <li>AJAX</li>
+</ul>
+<br>
+<ul>
+ <li><b>Métodos usados</b></li>
+ <li>Sesiones</li>
+ <li>mail()</li>
+ <li>SERVER</li>
 </ul>
 
 
