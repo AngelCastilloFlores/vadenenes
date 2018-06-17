@@ -25,7 +25,16 @@ En nuestro caso escogeremos "Mini-Shorts".<br>
 Cuando el usuario se decida por algún producto solo tendrá que clickar en la imagen y le aparecerá la información del producto: <b>Imagen, Nombre, precio y talla.</b><br>
 <a href="https://ibb.co/j9jWqJ"><img src="https://preview.ibb.co/mLvt4d/prod.png" alt="prod" border="0"></a><br><br>
 
-Al clickar en "Comprar Ahora", nos mostrará el ticket de nuestra compra para evitar cualquiér error. Si el usuario está de acuerdo con la compra procederá a hacer click en "Confirmar".
+Al clicar en "Comprar Ahora", nos mostrará el ticket de nuestra compra para evitar cualquiér error. Si el usuario está de acuerdo con la compra procederá a hacer click en "Confirmar".
 <a href="https://ibb.co/juZaHy"><img src="https://preview.ibb.co/bKKmPd/infocom.png" alt="infocom" border="0"></a><br><br>
+
+Finalmente, se nos abrirá una ultima pestaña con los datos de nuestra compra y la posibilidad de escoger el metodo de pago que prefiera el cliente, en este caso contamos con:
+<ol>
+ <li>Pago mediante Paypal</li>
+ <li>Pago por transferencia bancaria</li>
+</ol>
+Además el usuario deberá introducir sus datos personales con el fín de poder realizar el envio.
+<a href="https://ibb.co/iUeQHy"><img src="https://preview.ibb.co/d5azcy/factura.png" alt="factura" border="0"></a><br><br>
+
 
 
