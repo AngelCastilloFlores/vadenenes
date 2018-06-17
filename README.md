@@ -21,7 +21,7 @@ En la parte superior izquierda de la web , en todos los apartados de la misma, a
 Una vez que hayamos elegido la categoría que queramos, nos aparecerá un listado con todos los productos relacionados a esa categoria:
 En nuestro caso escogeremos "Mini-Shorts".<br>
   <a href="https://ibb.co/cCSgPd"><img src="https://preview.ibb.co/hUoAHy/incate.png" alt="incate" border="0"></a>
-  <br>
+  <br><br>
 Cuando el usuario se decida por algún producto solo tendrá que clickar en la imagen y le aparecerá la información del producto: <b>Imagen, Nombre, precio y talla.</b><br>
 <a href="https://ibb.co/j9jWqJ"><img src="https://preview.ibb.co/mLvt4d/prod.png" alt="prod" border="0"></a><br>
 
