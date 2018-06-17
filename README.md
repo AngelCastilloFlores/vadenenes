@@ -15,6 +15,8 @@ En la parte superior izquierda de la web , en todos los apartados de la misma, a
 
 <h4>Colección</h4>
 <p>En este apartado de la web, se mostrarán todas las categorías de ropa que existen en la base de datos. Cada categoría, mostrará el <b>nombre</b> y la <b>imagen</b> correspondiente.
-  <a href="https://ibb.co/nvgQjd"><img src="https://preview.ibb.co/fDSLHy/colecciones.png" alt="colecciones" border="0"></a>
+ <a href="https://ibb.co/nvgQjd"><img src="https://preview.ibb.co/fDSLHy/colecciones.png" alt="colecciones" border="0"></a>
+Una vez que hayamos elegido la categoría que queramos, nos aparecerá un listado con todos los productos relacionados a esa categoria:
+  <a href="https://ibb.co/cCSgPd"><img src="https://preview.ibb.co/hUoAHy/incate.png" alt="incate" border="0"></a>
 
 
