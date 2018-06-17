@@ -48,7 +48,7 @@ En el apartado contacto, el usuario de la web, podrá ponerse en contacto con el
 <h2>Login y Registro</h2>
 <br>
 <a href="https://ibb.co/j7Z3LJ"><img src="https://preview.ibb.co/h47eud/login.png" alt="login" border="0"></a>
-<a href="https://ibb.co/jyJV0J"><img src="https://preview.ibb.co/dZE3LJ/registro.png" 
+<a href="https://ibb.co/jyJV0J"><img src="https://preview.ibb.co/dZE3LJ/registro.png" alt="registro" border="0"></a>
 
 
 
